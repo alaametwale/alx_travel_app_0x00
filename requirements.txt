@@ -1,0 +1,9 @@
+# alx_travel_app/requirements.txt
+Django>=4.0
+djangorestframework
+django-cors-headers
+drf-yasg
+django-environ
+mysqlclient # أو mysql-connector-python
+celery
+django
